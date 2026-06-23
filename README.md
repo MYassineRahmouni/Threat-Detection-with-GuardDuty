@@ -7,7 +7,9 @@
 
 ---
 
-![Image](http://learn.nextwork.org/stimulated_turquoise_serene_manatee/uploads/aws-security-guardduty_v1w2x3y4)
+<img width="860" height="430" alt="image2" src="https://github.com/user-attachments/assets/2fd97c76-85ca-4991-87ab-a075a646c98c" />
+
+
 
 ---
 
